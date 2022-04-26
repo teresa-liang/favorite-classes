@@ -1,0 +1,51 @@
+body {
+    background-color: #0a192f;
+    font-family: Consolas;
+    padding: 40px;
+}
+
+p {
+    color: #a5b0d1;
+    font-size: 20px;
+    padding: 0px;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    float: right;
+    border-width: 10px;
+    border-color: white;
+}
+
+nav a {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.colored {
+    color: #63d6cd;
+}
+
+.defaultcolor {
+    color: #a5b0d1;
+}
+
+.textcolor{
+    color:white;
+}
+
+.contactimg {
+    width: 75px;
+}
+
+#name {
+    color: #ccdff6; 
+}

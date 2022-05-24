@@ -1,4 +1,26 @@
 .class {
-    background-color:lightgrey;
+    background-color: rgb(42, 32, 60);
+    color: cornflowerblue;
     margin: 10px;
+}
+
+#title {
+    font-weight: bold;
+}
+
+#department {
+    color:white;
+}
+
+#description {
+    padding: 15px;
+    color: white;
+}
+
+#error {
+    color: red;
+}
+
+#loading {
+    color: white;
 }
